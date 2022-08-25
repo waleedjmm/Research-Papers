@@ -33,4 +33,4 @@
 
 ## STOCK MARKET ANALYSIS AND THEIR EFFECTS USING DEEP LEARNING MODELS
 
-<p> Download Link: "https://github.com/waleedjmm/Research-Papers/blob/main/RECOGNIZING%20PATTERN%20BASED%20MANEUVERS%20OF%20TRAFFIC%20ACCIDENTS%20IN%20TORONTO.pdf"
+<p> Download Link: "https://github.com/waleedjmm/Research-Papers/blob/main/Deep%20learning%20project%20report%20v4.pdf"
