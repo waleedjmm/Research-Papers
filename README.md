@@ -10,3 +10,11 @@
 <p> IEEE Link: "https://ieeexplore.ieee.org/abstract/document/8717533"  </p>
 
 <p> Download Link: "https://github.com/waleedjmm/Research-Papers/blob/main/Driver%20Behaviour%20Profiling%20and%20Prediction%20using%20Machine%20Learning.pdf"
+
+
+
+### Research Work (Master's Thesis):
+
+## RECOGNIZING PATTERN BASED MANEUVERS OF TRAFFIC ACCIDENTS IN TORONTO
+
+<p> Download Link: "https://github.com/waleedjmm/Research-Papers/blob/main/Driver%20Behaviour%20Profiling%20and%20Prediction%20using%20Machine%20Learning.pdf"
