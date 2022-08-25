@@ -21,3 +21,16 @@
 ## RECOGNIZING PATTERN BASED MANEUVERS OF TRAFFIC ACCIDENTS IN TORONTO
 
 <p> Download Link: "https://github.com/waleedjmm/Research-Papers/blob/main/RECOGNIZING%20PATTERN%20BASED%20MANEUVERS%20OF%20TRAFFIC%20ACCIDENTS%20IN%20TORONTO.pdf"
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+### Research Work (Master's Project):
+
+## STOCK MARKET ANALYSIS AND THEIR EFFECTS USING DEEP LEARNING MODELS
+
+<p> Download Link: "https://github.com/waleedjmm/Research-Papers/blob/main/RECOGNIZING%20PATTERN%20BASED%20MANEUVERS%20OF%20TRAFFIC%20ACCIDENTS%20IN%20TORONTO.pdf"
